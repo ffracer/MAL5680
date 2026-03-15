@@ -1,6 +1,6 @@
 <m-character 
 src="https://raw.githubusercontent.com/ffracer/MAL5680/main/OSTest.glb"
-sx="0.01"
-sy="0.01"
-sz="0.01">
+sx="0.0001"
+sy="0.0001"
+sz="0.0001">
 </m-character>
